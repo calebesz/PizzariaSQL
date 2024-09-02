@@ -12,9 +12,6 @@ O objetivo desta análise é responder algumas perguntas de negócios utilizando
 4. **Distribuição de Valores Categóricos:** Analisar a distribuição de categorias, como tipos e tamanhos de pizza.
 5. **Responder Perguntas de Negócio:** Executar consultas SQL para responder a perguntas específicas, como pizzas mais vendidas, horários de pico, receita por categoria, etc.
 
-## Conclusão
-A análise exploratória permitirá entender melhor os dados, identificar possíveis problemas e gerar insights valiosos para a tomada de decisões estratégicas na pizzaria.
-
 # Análise Exploratória
 
 ## Contar o número de linhas e colunas de cada tabela:
