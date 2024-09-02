@@ -1,4 +1,4 @@
-# PizzariaSQL
+# Pizzaria - SQL
 
 Projeto de Análise Exploratória dos Dados usando o Pizza Data Set "Order Detail", disponível no Kaggle: [Pizza Data Set - Order Detail](https://www.kaggle.com/datasets/umairhayat/pizza-data-set-order-detail).
 
