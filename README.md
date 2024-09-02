@@ -90,8 +90,6 @@ A análise exploratória permitirá entender melhor os dados, identificar possí
 
 ## Conclusão
 
-A análise exploratória do **"Pizza Data Set order detail"** revelou insights valiosos sobre o comportamento de pedidos de pizza e as características dos clientes. Utilizando SQL para extrair e manipular os dados, conseguimos identificar padrões de compra, analisar o desempenho de diferentes produtos e entender melhor as preferências dos clientes.
-
 Através da análise, observamos que:
 
 1. **Produtos Populares**: Certos itens de pizza, como as variedades de pepperoni e margherita, apresentam um volume de vendas significativamente maior em comparação com outras opções. Isso pode indicar uma preferência consistente entre os clientes.
