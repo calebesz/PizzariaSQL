@@ -97,15 +97,13 @@ Através da análise, observamos que:
 
 ## Lições Aprendidas
 
-1. **Importância da Limpeza dos Dados**: A limpeza dos dados é crucial para garantir a precisão dos resultados. Durante a análise, lidamos com dados ausentes e inconsistências que precisaram ser tratadas para obter insights confiáveis.
+1. **Utilização Eficiente de SQL**: A habilidade de utilizar SQL para realizar consultas complexas e manipulações de dados foi essencial para explorar o dataset de forma eficiente. Aprendi a utilizar funções agregadas, joins e subconsultas para obter as informações desejadas.
 
-2. **Utilização Eficiente de SQL**: A habilidade de utilizar SQL para realizar consultas complexas e manipulações de dados foi essencial para explorar o dataset de forma eficiente. Aprendi a utilizar funções agregadas, joins e subconsultas para obter as informações desejadas.
+2. **Interpretação de Dados**: A análise dos resultados nos ensinou a interpretar os dados em um contexto mais amplo. Compreender as tendências e padrões observados pode levar a decisões mais informadas e estratégias de marketing mais eficazes.
 
-3. **Interpretação de Dados**: A análise dos resultados nos ensinou a interpretar os dados em um contexto mais amplo. Compreender as tendências e padrões observados pode levar a decisões mais informadas e estratégias de marketing mais eficazes.
+3. **Análise de Tendências Temporais**: Identificar padrões temporais nos ajudou a entender melhor o comportamento dos clientes e a otimizar operações de negócios para atender à demanda durante períodos de pico.
 
-4. **Análise de Tendências Temporais**: Identificar padrões temporais nos ajudou a entender melhor o comportamento dos clientes e a otimizar operações de negócios para atender à demanda durante períodos de pico.
-
-5. **Preparação para Análises Futuras**: Este projeto destacou a importância de uma boa preparação e organização dos dados para facilitar futuras análises. A documentação e estruturação dos dados são fundamentais para projetos de análise mais avançados.
+4. **Preparação para Análises Futuras**: Este projeto destacou a importância de uma boa preparação e organização dos dados para facilitar futuras análises. A documentação e estruturação dos dados são fundamentais para projetos de análise mais avançados.
 
 
 
